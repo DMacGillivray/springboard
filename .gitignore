@@ -91,4 +91,6 @@ target/
 # Custom
 resources/
 trash/
+ontario-peak-power-forecasting/
+data_wrangling_json/
 *.md.backup
