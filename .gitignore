@@ -93,4 +93,5 @@ resources/
 trash/
 ontario-peak-power-forecasting/
 data_wrangling_json/
+sql_project/
 *.md.backup
