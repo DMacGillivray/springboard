@@ -41,7 +41,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*.cover
+*,cover
 
 # Translations
 *.mo
@@ -56,49 +56,34 @@ docs/_build/
 # PyBuilder
 target/
 
-# DotEnv configuration
-.env
-
-# Database
-*.db
-*.rdb
-
-# Pycharm
-.idea
-
-# VS Code
-.vscode/
-
-# Spyder
-.spyproject/
-
-# Jupyter NB Checkpoints
+#Ipython
 .ipynb_checkpoints/
-
-# exclude data from source control by default
-/data/
-
-# Mac OS-specific storage files
+# Created by .ignore support plugin (hsz.mobi)
+### OSX template
 .DS_Store
+.AppleDouble
+.LSOverride
 
-# vim
-*.swp
-*.swo
+# Icon must end with two \r
+Icon
 
-# Mypy cache
-.mypy_cache/
+# Thumbnails
+._*
 
-# Custom
-resources/
-trash/
-ontario-peak-power-forecasting/
-python-statistics-essential-training/
-# 1559688305_Inferential_Statistics_Project2/
-# Bayesian_stats_Q6.28/
-data_wrangling_json/
-clustering/
-#logistic_regression/
-naive_bayes/
-sql_project/
-API_Project/
-*.md.backup
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+#Temporary data
+tempdata/
