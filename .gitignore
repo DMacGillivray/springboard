@@ -98,7 +98,7 @@ python-statistics-essential-training/
 data_wrangling_json/
 clustering/
 #logistic_regression/
-naive_bayes/
+#naive_bayes/
 sql_project/
 API_Project/
 *.md.backup
